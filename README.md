@@ -2,6 +2,10 @@
 
 If you experience any issues or have questions about using **Glutensjekk**, please contact at [cchickenwingssextra@gmail.com] to report bugs or request assistance. We aim to address all inquiries as quickly as possible.
 
+## Ansvarsfraskrivelse
+
+Informasjonen som presenteres i appen, gis kun for informasjonsformål. Vi garanterer ikke nøyaktigheten, fullstendigheten eller relevansen av opplysningene som er gitt. Bruk av informasjonen skjer på eget ansvar, og vi fraskriver oss ethvert ansvar for eventuelle feil, mangler eller konsekvenser som måtte oppstå som følge av bruk av denne informasjonen.
+
 # Privacy Policy for Glutensjekk
 
 **Effective Date**: [12.3.2024]
