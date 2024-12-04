@@ -1,12 +1,12 @@
 ## Support
 
-Opplever du problemer eller har spørsmål om bruk av Glutensjekk? Kontakt oss på [cchickenwingssextra@gmail.com](mailto:cchickenwingssextra@gmail.com) for å rapportere feil eller få hjelp. Vi streber etter å svare på alle henvendelser så raskt som mulig.
+Opplever du problemer eller har spørsmål om bruk av Glutensjekk? Kontakt meg på [cchickenwingssextra@gmail.com](mailto:cchickenwingssextra@gmail.com) for å rapportere feil eller få hjelp. Jeg prøver å svare på alle henvendelser så raskt som mulig.
 
 ---
 
 ## Ansvarsfraskrivelse
 
-Informasjonen som presenteres i appen, gis kun til informasjonsformål. Vi garanterer ikke nøyaktigheten, fullstendigheten eller relevansen av opplysningene som er gitt. Bruk av informasjonen skjer på eget ansvar, og vi fraskriver oss ethvert ansvar for eventuelle feil, mangler eller konsekvenser som måtte oppstå som følge av bruk av denne informasjonen.
+Informasjonen som presenteres i appen, gis kun til informasjonsformål. Jeg garanterer ikke nøyaktigheten, fullstendigheten eller relevansen av opplysningene som er gitt. Bruk av informasjonen skjer på eget ansvar, og jeg fraskriver meg ethvert ansvar for eventuelle feil, mangler eller konsekvenser som måtte oppstå som følge av bruk av denne informasjonen.
 
 ---
 
@@ -16,20 +16,20 @@ Informasjonen som presenteres i appen, gis kun til informasjonsformål. Vi garan
 
 ## Introduksjon
 
-Hos appen Glutensjekk er vi opptatt av å beskytte personvernet ditt. Denne personvernerklæringen forklarer hvordan vi samler inn, bruker og sikrer informasjonen din når du bruker appen vår.
+Med appen Glutensjekk er jeg opptatt av å beskytte personvernet ditt. Denne personvernerklæringen forklarer hvordan appen samler inn, bruker og sikrer informasjonen din når du bruker appen.
 
 ---
 
-## Hvilken informasjon vi samler inn
+## Hvilken informasjon appen samler inn
 
-Vi samler inn følgende typer informasjon:
+Appen samler inn følgende typer informasjon:
 
-- **Strekkodedata**: Når du skanner en strekkode, sender vi denne informasjonen til en tredjepart for å hente produktdetaljer.
-- **Bruksdata**: Vi kan samle inn anonym data som bruksmønstre og krasjrapporter for å forbedre appen.
+- **Strekkodedata**: Når du skanner en strekkode, sender den denne informasjonen til en tredjepart for å hente produktdetaljer.
+- **Bruksdata**: Den kan samle inn anonym data som bruksmønstre og krasjrapporter for å forbedre appen.
 
 ---
 
-## Hvordan vi bruker informasjonen din
+## Hvordan den bruker informasjonen din
 
 Den innsamlede informasjonen brukes til følgende formål:
 
@@ -40,7 +40,7 @@ Den innsamlede informasjonen brukes til følgende formål:
 
 ## Deling av informasjonen din
 
-Vi deler kun strekkodedata med en tredjepart for å hente produktdetaljer. Vi selger, bytter eller overfører ikke persondata til tredjeparter.
+Den deler kun strekkodedata med en tredjepart for å hente produktdetaljer. Jeg selger, bytter eller overfører ikke persondata til tredjeparter.
 
 ---
 
@@ -65,13 +65,13 @@ Det er implementert hensiktsmessige sikkerhetstiltak for å beskytte dataene din
 
 ## Endringer i denne personvernerklæringen
 
-Vi kan oppdatere denne personvernerklæringen fra tid til annen. Eventuelle endringer vil bli reflektert her, og gyldighetsdatoen vil bli oppdatert. Vi anbefaler at du gjennomgår denne erklæringen jevnlig.
+Jeg kan oppdatere denne personvernerklæringen fra tid til annen. Eventuelle endringer vil bli reflektert her, og gyldighetsdatoen vil bli oppdatert. Jeg anbefaler at du gjennomgår denne erklæringen jevnlig.
 
 ---
 
-## Kontakt oss
+## Kontakt meg
 
-Hvis du har spørsmål om denne personvernerklæringen eller hvordan dataene dine håndteres, kan du kontakte oss på:
+Hvis du har spørsmål om denne personvernerklæringen eller hvordan dataene dine håndteres, kan du kontakte meg på:
 
 **E-post:** [cchickenwingssextra@gmail.com](mailto:cchickenwingssextra@gmail.com)
 
