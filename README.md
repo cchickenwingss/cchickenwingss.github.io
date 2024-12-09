@@ -12,7 +12,7 @@ Informasjonen som presenteres i appen, gis kun til informasjonsformål. Jeg gara
 
 # Personvernerklæring for Glutensjekk
 
-**Gyldig fra: 12. mars 2024**
+**Gyldig fra: 12. desember 2024**
 
 ## Introduksjon
 
